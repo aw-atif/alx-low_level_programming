@@ -1,10 +1,11 @@
 #include <stdio.h>
 /**
 * main - Prints out a string to stdout.
-* Return : 0 (Succes)
+* Return: Always 0 (Success)
 */
-int main(void){
-	char a;
+int main(void)
+{
+	char ;
 	int b;
 	long int c;
 	long long int d;
